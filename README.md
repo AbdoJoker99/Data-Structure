@@ -12,7 +12,7 @@
 This is a Data Structures project built using python, which includes implementations of basic data structures such as arrays, stacks, queues, and trees. Each data structure comes with essential operations and is integrated with a simple GUI for easy interaction and visualization.
 
 ## 🎬 vedio
-![Game Screenshot](https://github.com/AbdoJoker99/xo/blob/main/Screenshot%202024-12-01%20225659.png?raw=true)
+![Game Screenshot](https://github.com/AbdoJoker99/Data-Structure/blob/main/data_structure%20-%20Made%20with%20Clipchamp.mp4)
 &nbsp;
 
 ## Features
