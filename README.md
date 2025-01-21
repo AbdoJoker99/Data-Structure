@@ -11,10 +11,6 @@
 ## Overview
 This is a Data Structures project built using python, which includes implementations of basic data structures such as arrays, stacks, queues, and trees. Each data structure comes with essential operations and is integrated with a simple GUI for easy interaction and visualization.
 
-## 🎬 vedio
-![https://www.youtube.com/watch?v=5C1Ko4Yn_nU]
-&nbsp;
-
 ## Features
 - **Array Operations**: Create, read, update, and delete elements from an array.
 - **Stack Operations**: Push, pop, peek, and check if the stack is empty.
