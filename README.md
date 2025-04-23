@@ -9,7 +9,7 @@
 - [Contributors](#contributors)
 
 ## Overview
-This is a Data Structures project built using python, which includes implementations of basic data structures such as arrays, stacks, queues, and trees. Each data structure comes with essential operations and is integrated with a simple GUI for easy interaction and visualization.
+This is a Data Structures project built using python, which includes implementations of basic data structures such as arrays, stacks, queues, and trees. Each data structure comes with essential operations and is integrated with a simple GUI for easy interaction and visualization
 
 ## Features
 - **Array Operations**: Create, read, update, and delete elements from an array.
